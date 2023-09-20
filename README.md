@@ -1,4 +1,7 @@
 # Currency-ReactJS-App
+![Open in Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ## Description
 Welcome to our project! This is **a Currency exchange App** made in **ReactJS** and using [API](https://apilayer.com/marketplace/fixer-api?utm_source=apilayermarketplace&utm_medium=featured). It allows users to quickly and easily exchange currency.     With this App, users can making exchange by determing the currency type and amount of exchanging. We hope you enjoy and we look forward to your contributions!
