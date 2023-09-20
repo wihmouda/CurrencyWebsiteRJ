@@ -1,7 +1,7 @@
 # Currency-ReactJS-App
 
 ## Description
-Welcome to our project! This is --a Currency exchange App-- made in **ReactJS**. It allows users to quickly and easily exchange currency.     With this App, users can making exchange by determing the currency type and amount of exchanging. We hope you enjoy and we look forward to your contributions!
+Welcome to our project! This is **a Currency exchange App** made in **ReactJS** and the using [API](https://apilayer.com/marketplace/fixer-api?utm_source=apilayermarketplace&utm_medium=featured). It allows users to quickly and easily exchange currency.     With this App, users can making exchange by determing the currency type and amount of exchanging. We hope you enjoy and we look forward to your contributions!
 
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
